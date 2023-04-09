@@ -1,7 +1,7 @@
 Hi there 👋
 - 👋 I’m @Sahil2k24
 - 📱 Tech Enthusiast 💻
-- 📫 Contact : sahil2k24@gmail.com
+- 📫 Contact : sahilpatil2k24@gmail.com
 
 🔘I have very keen interest in the field of Technology. I like to be updated about the latest tech gadgets in the Industry and also have a very good knowledge about the same.
 
