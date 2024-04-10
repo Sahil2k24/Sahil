@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil2k24" alt="sahil2k24" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently working as a **DevOps Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sahil2k24](https://github.com/Sahil2k24)
 
