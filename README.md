@@ -14,9 +14,7 @@
 - 💬 Ask me about **Tech Gadgets, Current Affairs and Movies**
 
 - 📫 How to reach me : **sahilpatil2k24@gmail.com**
-
-- 📄 My Resume [https://drive.google.com/file/d/1miZjZAcNVLoyU1-r5a9JJ5lS7iR2ICXZ/view?usp=drivesdk](https://drive.google.com/file/d/1miZjZAcNVLoyU1-r5a9JJ5lS7iR2ICXZ/view?usp=drivesdk)
-
+- 
 - ⚡ Fun fact : **I can debug code while simultaneously mastering the art of making the perfect cup of coffee.**
 
 <h3 align="left">Connect with me:</h3>
