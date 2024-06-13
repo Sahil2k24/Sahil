@@ -14,7 +14,7 @@
 - 💬 Ask me about **Tech Gadgets, Current Affairs and Movies**
 
 - 📫 How to reach me : **sahilpatil2k24@gmail.com**
-- 
+  
 - ⚡ Fun fact : **I can debug code while simultaneously mastering the art of making the perfect cup of coffee.**
 
 <h3 align="left">Connect with me:</h3>
