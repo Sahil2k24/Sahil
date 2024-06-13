@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sahilpatil2k24](https://medium.com/@sahilpatil2k24)
 
-- 💬 Ask me about **Tech Gadgets, Current Affairs and Movies**
+- 💬 Ask me about **DevOps, AWS & Tech Gadgets**
 
 - 📫 How to reach me : **sahilpatil2k24@gmail.com**
   
